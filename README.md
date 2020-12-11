@@ -7,10 +7,7 @@
 ### 2. Rewrite the problem in your own words:
 
 
-### 3. What assumptions will you make about this problem if you cannot ask any more clarifying questions? What are your reasons for making those assumptions?
+### 3. What are your initial thoughts about this problem? (2-3 sentences)
 
 
-### 4. What are your initial thoughts about this problem? (2-3 sentences)
-
-
-### 5. Write out a few lines of initial pseudocode within your totalScore function (this should be short, and not be real code!)
+### 4. Write out a few lines of initial pseudocode within your totalScore function (this should be short, and not be real code!)
