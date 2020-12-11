@@ -1,0 +1,13 @@
+{
+  "name": "bowling-challenge",
+  "version": "0.0.1",
+  "description": "Mod 2 independent challenge",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  },
+  "dependencies": {}
+}
